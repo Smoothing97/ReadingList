@@ -19,6 +19,6 @@
 6.Toward Scale-Invariance and Position-Sensitive Region Proposal Networks
   intro: ECCV 2018
   arXiv: https://arxiv.org/abs/1807.09528
-  MetaAnchor: Learning to Detect Objects with Customized Anchors
   
-7.arxiv: https://arxiv.org/abs/1807.00980
+7.MetaAnchor: Learning to Detect Objects with Customized Anchors
+  arxiv: https://arxiv.org/abs/1807.00980
