@@ -1,7 +1,24 @@
 1.Accurate Building Detection in VHR Remote Sensing Images Using Geometric Saliency
   http://captain.whu.edu.cn/project/geosay.html
+  
 2.显著性检测的一篇综述文章
   https://blog.csdn.net/u013351270/article/details/78582917
+  
 3.一个目标检测所有算法的整理
   https://github.com/amusi/awesome-object-detection
-
+  
+4.Deep Feature Pyramid Reconfiguration for Object Detection
+  intro: ECCV 2018
+  arXiv: https://arxiv.org/abs/1808.07993
+  
+5.Acquisition of Localization Confidence for Accurate Object Detection
+  intro: ECCV 2018
+  arXiv: https://arxiv.org/abs/1807.11590
+  github: https://github.com/vacancy/PreciseRoIPooling
+  
+6.Toward Scale-Invariance and Position-Sensitive Region Proposal Networks
+  intro: ECCV 2018
+  arXiv: https://arxiv.org/abs/1807.09528
+  MetaAnchor: Learning to Detect Objects with Customized Anchors
+  
+7.arxiv: https://arxiv.org/abs/1807.00980
